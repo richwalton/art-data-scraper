@@ -1,0 +1,2 @@
+a custom built Vanilla Javascript scraper to get top art news from major publications and send to cloud database using Puppeteer node library(scraping) and Firebase(database).
+In the future I plan refactor some of the code, but it works well for me now.
